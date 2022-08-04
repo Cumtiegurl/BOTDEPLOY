@@ -25,7 +25,7 @@
 
 #### With Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/cumtiegurl@gmail.com/heroku.com/deploy)
 
 
 -------------------------------------------------
